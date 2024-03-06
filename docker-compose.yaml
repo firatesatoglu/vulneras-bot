@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  autonesacu:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: autonesacu
+    container_name: autonesacu
+    restart: always

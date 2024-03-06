@@ -1,0 +1,7 @@
+bs4
+telebot
+urllib3
+argparse
+requests
+cloudscraper
+python-dotenv
