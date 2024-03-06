@@ -18,4 +18,9 @@ For the subdomain scanner, you no need to get API key for all of them, but some 
     /listtargets - List all targets
     /listreports - List all reports
 
-  ![image](https://github.com/firatesatoglu/vulneras-bot/assets/60032785/1d72aa68-6d18-4eac-aaf7-eec445b35ab0)
+![image](https://github.com/firatesatoglu/vulneras-bot/assets/60032785/1d72aa68-6d18-4eac-aaf7-eec445b35ab0)
+
+![image](https://github.com/firatesatoglu/vulneras-bot/assets/60032785/1f5172c7-1c60-4228-981c-35f7901d0b8b)
+    
+![image](https://github.com/firatesatoglu/vulneras-bot/assets/60032785/02706ec4-b9d3-4b95-844a-2bafb4fdae3b)
+
